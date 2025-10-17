@@ -1,0 +1,19 @@
+cve_id: CVE-YYYY-NNNNNN
+title: "Short Title"
+vendor: "Vendor Name"
+product: "Product Name"
+hardware_version: "Vx.x"
+firmware_version: "Fx.x.x-YYYYMMDD"
+affected_component: "/path or component"
+attack_vector: "Network/Local/Physical"
+cvss_v3_base_score: 0.0
+cvss_vector: "AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+discovery_date: YYYY-MM-DD
+report_date: YYYY-MM-DD
+public_date: YYYY-MM-DD
+status: "Reserved/Published"
+discoverer: "Sathishkumar M R"
+references:
+  - "https://example.com"
+notes: |
+  Additional notes...
